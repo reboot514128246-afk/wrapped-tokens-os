@@ -1,6 +1,6 @@
 # wrapped-tokens
 
-Wrapped tokens representing staked and generic assets.
+Wrapped tokens representing staked and generic assets. cbETH logo assets are in the `cbETH Logo Kit` directory.
 
 ## Setup
 
